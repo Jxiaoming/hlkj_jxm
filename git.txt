@@ -1,0 +1,23 @@
+ git config --global user.name "Jxiaoming"
+ git config --global user.email "7548901@qq.com"
+ git init
+ git clone
+ git add
+ rm -rf 55.txt
+ git rm 55.txt
+ git commit -m '提交说明'
+ git push
+
+ ----------   提交文件
+ git add -u    提交所有改动的文件
+ git add --all 提交所有新增的文件
+
+
+ git add
+ git commit -m '提交说明'
+ git push
+-----------   删除文件
+git rm 
+git commit -m '提交说明'
+git push         ----最后都要push
+
